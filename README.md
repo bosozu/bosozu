@@ -1,6 +1,6 @@
 - Hi, I’m @bosozu
 - 
-- I’m currently learning Docker, Ansible, git.
+- I’m currently learning git, python for backend developing.
 
 How to reach me:
   artem_she@yahoo.com
